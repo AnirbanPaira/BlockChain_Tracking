@@ -1,11 +1,11 @@
 import React from 'react'
 
-function index() {
+function NavBar() {
   return (
     <div>
-      hello
+      NavBar
     </div>
   )
 }
 
-export default index
+export default NavBar

@@ -1,11 +1,11 @@
 import React from 'react'
 
-function index() {
+function profile() {
   return (
     <div>
-      hello
+      
     </div>
   )
 }
 
-export default index
+export default profile

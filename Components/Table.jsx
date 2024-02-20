@@ -1,11 +1,11 @@
 import React from 'react'
 
-function index() {
+function Table() {
   return (
     <div>
-      hello
+      
     </div>
   )
 }
 
-export default index
+export default Table
